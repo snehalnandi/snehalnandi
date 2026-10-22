@@ -1,56 +1,36 @@
 # Hi, I'm Snehal Nandi 👋
 
-B.Tech Computer Science & Engineering graduate building practical software for real problems — dashboards, full-stack web apps, data tools, and browser-based utilities.
+B.Tech Computer Science & Engineering graduate interested in building practical web applications, data tools, and automation that solve real problems.
 
----
+I work across frontend development and data analysis, and I'm continuing to strengthen my full-stack engineering skills through hands-on projects.
 
-## 🛠 Tech Stack
+## Skills & Tools
 
-**Frontend**
-`React` · `Next.js` · `Tailwind CSS` · `JavaScript` · `TypeScript` · `HTML/CSS`
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Next.js
+- **Data & Analytics:** Python, Pandas, Jupyter Notebook, Excel/CSV
+- **Backend & Databases:** Node.js, REST APIs, Prisma, PostgreSQL
+- **Tools:** Git, Vite, Vercel, PDF.js
 
-**Backend & Database**
-`Node.js` · `Prisma` · `PostgreSQL` · `NextAuth.js` · `REST APIs`
-
-**Data & Analytics**
-`Python` · `Pandas` · `Jupyter Notebook` · `Excel/CSV`
-
-**Tools**
-`Git` · `Vite` · `Vercel` · `PDF.js` · `Zod` · `React Hook Form`
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📊 [Inventory & Data Analytics Dashboard](https://github.com/snehalnandi/React-Data-Dashboard)
-A React + Tailwind CSS inventory management dashboard with dark/light mode, live search filtering, and multi-page navigation — paired with Jupyter notebooks demonstrating Pandas data analysis and cleaning on the same dataset.
+A React and Tailwind dashboard featuring searchable inventory views, multi-page navigation, and dark/light themes. The repository also contains Jupyter notebooks for exploring and cleaning data with Pandas.
 
-`React` `Tailwind CSS` `Python` `Pandas` `Jupyter`
+**Stack:** React, Tailwind CSS, Python, Pandas, Jupyter Notebook  
+[View source code](https://github.com/snehalnandi/React-Data-Dashboard) · [Open the listed demo](https://p63zhd.csb.app/)
 
----
+### 📈 [Regional Data Dashboard — Excel Workbook](https://github.com/snehalnandi/Regions_Wise_Data_Dashboard_excel1)
+A spreadsheet project published as an Excel workbook. See the repository for the file and review its contents.
 
-### 🌿 [Nandi Exports — B2B E-Commerce Platform](https://github.com/snehalnandi/radhe-govinda-exports-websites)
-Full-stack Next.js website for an eco-friendly jute and cotton bag export business. Features user authentication, an admin dashboard, quote request system, product catalog, and a PostgreSQL database via Prisma.
+**Artifact:** [ASS1.xlsx](https://github.com/snehalnandi/Regions_Wise_Data_Dashboard_excel1/blob/main/ASS1.xlsx)
 
-`Next.js 14` `TypeScript` `Prisma` `PostgreSQL` `NextAuth.js` `Tailwind CSS`
+## What I'm Building Toward
 
----
+- Creating reliable, user-friendly web applications
+- Improving my skills in data cleaning, analysis, and visualization
+- Building clear, maintainable project documentation
 
-### 📄 [Bank Statement to Excel Converter](https://github.com/snehalnandi)
-A browser-based tool that parses PDF bank statements client-side using PDF.js, auto-categorises transactions with keyword matching, and exports clean Excel or CSV files — no server, no data upload.
+## Contact
 
-`React` `PDF.js` `xlsx` `Tailwind CSS` `Vite`
+- **GitHub:** [@snehalnandi](https://github.com/snehalnandi)
 
----
-
-## 📈 Currently Learning
-- TypeScript & advanced React patterns
-- SQL query optimisation with Prisma
-- Data visualisation with Python
-
----
-
-## 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/snehalnandi)
-[![GitHub](https://img.shields.io/badge/GitHub-@snehalnandi-181717?logo=github&logoColor=white)](https://github.com/snehalnandi)
