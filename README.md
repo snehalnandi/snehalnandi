@@ -29,14 +29,14 @@ A React + Tailwind CSS inventory management dashboard with dark/light mode, live
 
 ---
 
-### 🌿 [Nandi Exports — B2B E-Commerce Platform](https://github.com/snehalnandi/nandi-exports-website)
+### 🌿 [Nandi Exports — B2B E-Commerce Platform](https://github.com/snehalnandi/radhe-govinda-exports-websites)
 Full-stack Next.js website for an eco-friendly jute and cotton bag export business. Features user authentication, an admin dashboard, quote request system, product catalog, and a PostgreSQL database via Prisma.
 
 `Next.js 14` `TypeScript` `Prisma` `PostgreSQL` `NextAuth.js` `Tailwind CSS`
 
 ---
 
-### 📄 [Bank Statement to Excel Converter](https://github.com/snehalnandi/bank-statement-to-excel)
+### 📄 [Bank Statement to Excel Converter](https://github.com/snehalnandi)
 A browser-based tool that parses PDF bank statements client-side using PDF.js, auto-categorises transactions with keyword matching, and exports clean Excel or CSV files — no server, no data upload.
 
 `React` `PDF.js` `xlsx` `Tailwind CSS` `Vite`
